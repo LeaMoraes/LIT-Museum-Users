@@ -1,6 +1,6 @@
 ﻿using Lit_Museum_Users.Application.Dtos;
-using Lit_Museum_Users.Core.Entity;
-using Lit_Museum_Users.Core.Events.User;
+using Lit_Museum_Users.Domain.Entity;
+using Lit_Museum_Users.Domain.Events.User;
 using System;
 using System.Collections.Generic;
 using System.Linq;

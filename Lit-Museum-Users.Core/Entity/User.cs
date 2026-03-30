@@ -1,12 +1,12 @@
-﻿using Lit_Museum_Users.Core.Events;
-using Lit_Museum_Users.Core.Events.User;
+﻿using Lit_Museum_Users.Domain.Events;
+using Lit_Museum_Users.Domain.Events.User;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lit_Museum_Users.Core.Entity
+namespace Lit_Museum_Users.Domain.Entity
 {
     public class User : EntityBase
     {

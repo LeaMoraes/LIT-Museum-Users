@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lit_Museum_Users.Core.Entity
+namespace Lit_Museum_Users.Domain.Entity
 {
     public class EntityBase
     {
