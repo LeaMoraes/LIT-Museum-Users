@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lit-Museum-Users.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a239bb86eabcbd695aeb1cf15dc53b380c576e7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d75636979a96a2b7adb9abeef1295cb73f27e86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lit-Museum-Users.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lit-Museum-Users.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "f3iyH2xTdx4=",
+  "dgSpecHash": "tD3mvcfi42k=",
   "success": true,
   "projectFilePath": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\souza\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
     "C:\\Users\\souza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
     "C:\\Users\\souza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
     "C:\\Users\\souza\\.nuget\\packages\\microsoft.extensions.logging\\10.0.5\\microsoft.extensions.logging.10.0.5.nupkg.sha512",
