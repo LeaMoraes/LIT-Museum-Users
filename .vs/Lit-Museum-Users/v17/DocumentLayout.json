@@ -7,6 +7,50 @@
       "RelativeMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|solutionrelative:lit-museum-users.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|solutionrelative:lit-museum-users.application\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\iservice\\ipasswordhashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|solutionrelative:lit-museum-users.application\\iservice\\ipasswordhashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\userupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\userupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\userpasswordchangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\userpasswordchangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\usercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\usercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\userdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\userdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87249939-0ADB-4EE7-8403-6526CDC66E6A}|Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87249939-0ADB-4EE7-8403-6526CDC66E6A}|Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj|solutionrelative:lit-museum-users.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\repositories\\ieventstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\repositories\\ieventstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,56 +63,20 @@
       "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87249939-0ADB-4EE7-8403-6526CDC66E6A}|Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87249939-0ADB-4EE7-8403-6526CDC66E6A}|Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj|solutionrelative:lit-museum-users.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\userupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\userupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\userrolechangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\userrolechangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\userpasswordchangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\userpasswordchangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\userdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\userdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\user\\usercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\user\\usercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|solutionrelative:lit-museum-users.application\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\lit-museum-users.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|solutionrelative:lit-museum-users.application\\lit-museum-users.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\iservice\\ipasswordhashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|solutionrelative:lit-museum-users.application\\iservice\\ipasswordhashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\lit-museum-users.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\lit-museum-users.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|solutionrelative:lit-museum-users.application\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\dtos\\userchangepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87249939-0ADB-4EE7-8403-6526CDC66E6A}|Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.tests\\lit-museum-users.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{87249939-0ADB-4EE7-8403-6526CDC66E6A}|Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj|solutionrelative:lit-museum-users.tests\\lit-museum-users.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.core\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0265338-83F6-4221-A419-67B6D55AC3A5}|Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj|solutionrelative:lit-museum-users.core\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBB8EF70-C4EB-430A-AE16-9CC6AEF22215}|Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj|c:\\users\\souza\\onedrive\\documentos\\_projetos\\_projetos\\lit-museum\\lit-museum-users\\lit-museum-users.application\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,187 +106,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserDeletedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\IService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\IService\\IUserService.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Application\\IService\\IUserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:34:33.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserPasswordChangedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:39:42.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRoleChangedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:35:24.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T18:08:06.207Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserUpdatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:33:28.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\UserServiceTest.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Tests\\UserServiceTest.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\UserServiceTest.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Tests\\UserServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T19:07:43.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T19:10:15.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T19:14:35.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEventStoreRepository.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T19:37:47.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Service\\UserService.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Application\\Service\\UserService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T19:05:34.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserCreatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:29:57.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Entity\\User.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Entity\\User.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAYwAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T16:36:40.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T18:11:28.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:00:52.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Lit-Museum-Users.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-24T19:09:54.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "IPasswordHashingService.cs",
               "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\IService\\IPasswordHashingService.cs",
               "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\IService\\IPasswordHashingService.cs",
@@ -298,55 +130,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Lit-Museum-Users.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
-              "RelativeToolTip": "Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-24T19:32:38.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Lit-Museum-Users.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
-              "RelativeToolTip": "Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-22T19:06:29.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\IService\\IUserService.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\IService\\IUserService.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\IService\\IUserService.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Application\\IService\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Entity\\User.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Entity\\User.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T18:08:06.207Z"
+              "WhenOpened": "2026-03-22T16:36:40.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserChangePasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UserDeletedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserDeletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T18:34:36.182Z"
+              "WhenOpened": "2026-03-22T17:34:33.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
+              "Title": "UserCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:29:57.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPasswordChangedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserPasswordChangedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:39:42.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:33:28.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:02:32.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Service\\UserService.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Application\\Service\\UserService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:05:34.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:00:52.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Entity\\EntityBase.cs",
               "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Entity\\EntityBase.cs",
@@ -358,15 +239,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
-              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
-              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
-              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\DomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Tests\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\UserServiceTest.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Tests\\UserServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:02:32.015Z"
+              "WhenOpened": "2026-03-22T19:07:43.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEventStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Repositories\\IEventStoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:37:47.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:14:35.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:10:15.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRoleChangedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Events\\User\\UserRoleChangedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:35:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Application\\Dtos\\UserCreateDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T18:11:28.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lit-Museum-Users.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
+              "RelativeToolTip": "Lit-Museum-Users.Core\\Lit-Museum-Users.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T19:09:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lit-Museum-Users.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
+              "RelativeToolTip": "Lit-Museum-Users.Application\\Lit-Museum-Users.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T19:32:38.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Lit-Museum-Users.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
+              "RelativeToolTip": "Lit-Museum-Users.Tests\\Lit-Museum-Users.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-22T19:06:29.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\souza\\OneDrive\\Documentos\\_Projetos\\_Projetos\\LIT-Museum\\Lit-Museum-Users\\Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
+              "RelativeToolTip": "Lit-Museum-Users.Application\\Dtos\\UserChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T18:34:36.182Z"
             },
             {
               "$type": "Document",

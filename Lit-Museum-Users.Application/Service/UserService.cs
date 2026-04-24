@@ -41,29 +41,18 @@ namespace Lit_Museum_Users.Application.Service
             user.MarkEventsAsCommitted();
         }
 
-
-        public Task<User> ChangePasswordAsync(int id, UserChangePasswordDto userDto)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<bool> ChangeRole(int id, string role)
-        {
-            throw new NotImplementedException();
-        }
-
         public async Task<User> CreateUserAsync(UserCreateDto userDto)
         {
             _logger.LogInformation("Criando um novo Usuario: {Email}", userDto.Email);
 
-            if (string.IsNullOrEmpty(userDto.Name)) 
-                { throw new ArgumentException("Nome do Usuario não pode estar em branco"); }
-            if (userDto.Name.Equals(userDto.Email, StringComparison.OrdinalIgnoreCase)) 
-                { throw new ArgumentException("Nome do Usuario não pode ser igual ao email"); }
-            if (!IsValidEmail(userDto.Email)) 
-                { throw new ArgumentException("Formato de email invalido"); }
-            if (!IsValidPassword(userDto.Password)) 
-                { throw new ArgumentException("A senha deve ter no minimo 8 caracteres, incluindo letras maiusculas, minusculas, numeros e caracteres especiais"); }
+            if (string.IsNullOrEmpty(userDto.Name))
+            { throw new ArgumentException("Nome do Usuario não pode estar em branco"); }
+            if (userDto.Name.Equals(userDto.Email, StringComparison.OrdinalIgnoreCase))
+            { throw new ArgumentException("Nome do Usuario não pode ser igual ao email"); }
+            if (!IsValidEmail(userDto.Email))
+            { throw new ArgumentException("Formato de email invalido"); }
+            if (!IsValidPassword(userDto.Password))
+            { throw new ArgumentException("A senha deve ter no minimo 8 caracteres, incluindo letras maiusculas, minusculas, numeros e caracteres especiais"); }
 
             var existindUser = await _userRepository.GetUserByEmail(userDto.Email);
             if (existindUser != null)
@@ -84,25 +73,101 @@ namespace Lit_Museum_Users.Application.Service
 
         }
 
-        public Task<bool> DeleteUserAsync(int id)
+        public async Task<User> UpdateUserAsync(int id, UserUpdateDto userDto)
         {
-            throw new NotImplementedException();
+            var user = await _userRepository.GetByIdAsync(id);
+            if (user == null) return null;
+
+            if (string.IsNullOrEmpty(userDto.Name))
+                throw new ArgumentException("Nome do usuario não pode estar em branco");
+            if (string.IsNullOrEmpty(userDto.Email))
+                throw new ArgumentException("Formato de email invalido");
+            if (!IsValidPassword(userDto.Password))
+                throw new ArgumentException("A senha deve ter no minimo 8 caracteres, incluindo letras maiusculas, minusculas, numeros e caracteres especiais");
+
+            var existingUser = await _userRepository.GetUserByEmail(userDto.Email);
+            if (existingUser != null && existingUser.Id != id)
+                throw new ArgumentException("Ja existe um usuario cadastrado com este email");
+
+            var userUpdatedEvent = new UserUpdatedEvent(userDto.Name, userDto.Email);
+            user.Apply(userUpdatedEvent);
+            user.PasswordHash = _passwordHashingService.HashPassword(userDto.Password);
+
+            await SaveEventsAndUpdateVersion(user, id.ToString(), user.Version);
+            
+            return user;
+
         }
 
-        public Task<List<User>> GetAll()
+        public async Task<User> ChangePasswordAsync(int id, UserChangePasswordDto userDto)
         {
-            throw new NotImplementedException();
+            var user = await _userRepository.GetByIdAsync(id);
+            if (user == null) return null;
+
+            if (string.IsNullOrEmpty(userDto.Password))
+                throw new ArgumentException("A senha atual não pode estar vazia");
+
+            if (string.IsNullOrEmpty(userDto.NewPassword))
+                throw new ArgumentException("A nova senha não pode estar vazia");
+            if (!IsValidPassword(userDto.NewPassword))
+                throw new ArgumentException("A senha deve ter no minimo 8 caracteres, incluindo letras maiusculas, minusculas, numeros e caracteres especiais");
+            if (_passwordHashingService.VerifyPassword(userDto.Password, user.PasswordHash))
+                throw new ArgumentException("A senha atual informada não esta correta");
+
+            var passwordChangeEvent = new UserPasswordChangedEvent();
+            user.Apply(passwordChangeEvent);
+            user.PasswordHash = _passwordHashingService.HashPassword(userDto.NewPassword);
+
+            await SaveEventsAndUpdateVersion(user, id.ToString(), user.Version);
+            return user;
         }
 
-        public Task<User> GetById(int id)
+        public async Task<bool> ChangeRole(int id, string role)
         {
-            throw new NotImplementedException();
+            var user = await _userRepository.GetByIdAsync(id);
+
+            if (user == null) return false;
+
+            if (!IsValidRole(role))
+                throw new ArgumentException("O nivel de acesso informado não existe");
+
+            var roleChangeEvent = new UserRoleChangedEvent(role);
+            user.Apply(roleChangeEvent);
+
+            await SaveEventsAndUpdateVersion(user, id.ToString(), user.Version);
+            return true;
         }
 
-        public Task<User> UpdateUserAsync(int id, UserUpdateDto userDto)
+        public async Task<bool> DeleteUserAsync(int id)
         {
-            throw new NotImplementedException();
+            var user = await _userRepository.GetByIdAsync(id);
+            if (user == null) return false;
+
+            var userDeletedEvent = new UserDeletedEvent();
+            user.Apply(userDeletedEvent);
+
+            await SaveEventsAndUpdateVersion(user, id.ToString(), user.Version);
+            return true;
         }
+
+        public async Task<List<User>> GetAll()
+        {
+            _logger.LogInformation("Buscando todos os usuarios");
+            var users = await _userRepository.GetAllAsync();
+            _logger.LogInformation("Encontrado {Count} usuarios", users.Count);
+            return users;
+        }
+
+        public async Task<User> GetById(int id)
+        {
+            _logger.LogInformation("Buscando usuario com ID: {UsuarioId}", id);
+            var user = await _userRepository.GetByIdAsync(id);
+            if (user != null) { _logger.LogInformation("Usuario encontrado: {UserName}", user.Name); }
+            else { _logger.LogWarning("Usuario com ID {UsuarioId} não encontrado", id); }
+            return user;
+        }
+
+        
 
         public bool IsValidEmail(string email)
         {
